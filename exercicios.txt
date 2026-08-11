@@ -1,0 +1,47 @@
+01 – De acordo com os exemplos da aula anterior, altere
+o tamanho do vetor, de acordo com um valor que será
+definido pelo usuário. Depois preencha todo o vetor e
+imprima seus valores.
+
+02 – Depois complemente o programa com uma opção
+de abortar a digitação dos valores do vetor caso o
+usuário digite (-1) mesmo o vetor não estando cheio.
+
+3 - Crie um algoritmo que solicite 10 números inteiros, armazene os números
+em um vetor e apresente: média, o maior e o menor. É necessário o uso de
+laço.
+4 - Faça um algoritmo que leia uma quantidade de números determinada pelo
+usuário, armazene os números em um vetor e apresente depois o maior e o
+menor número.
+
+5 - Faça um programa que leia 10 números do usuário e faça o teste de número
+par ou ímpar dos números digitados. Crie dois vetores e armazene os números
+
+pares no primeiro vetor e os números ímpares no segundo vetor.
+6 - Implemente um programa que recebe um vetor de 20 números inteiros. Em
+seguida o programa deve separar esse vetor, gerando os vetores pares,
+impares, positivos e negativos. O vetor resultante pares deve armazenar os
+valores de entrada que são pares. De forma análoga, o vetor resultante ímpar,
+positivo e negativo deve armazenar os valores ímpares, positivos e negativos
+de entrada. A capacidade de pares e impares deve ser 20, mas não
+necessariamente esses vetores estarão preenchidos. Nesse caso, deve usar o
+valor 0 representando que aquela posição está “vazia”.
+Por exemplo: para entrada =
+{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30},
+a separação resulta em pares =
+{2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 0, 0, 0, 0, 0}
+e impares =
+{1, 3, 5, 7, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}.
+
+7 Implemente um programa que preencha um vetor com nove números
+inteiros, calcule e mostre os números primos e suas respectivas posições.
+
+
+8 Faça um programa que leia 5 valores inteiros, armazeno-os em um vetor,
+calcule e apresente a média dos valores, os números que são maiores e
+menores que a média.
+
+9 Faça um programa que preencha dois vetores de números inteiros com 20
+números cada. Depois gere um terceiro vetor formado pela diferença dos dois
+vetores lidos, um quarto vetor formado pela soma dos dois vetores lidos e por
+último um quinto vetor formado pela multiplicação dos dois vetores lidos.
