@@ -17,7 +17,6 @@ int main()
     {
         scanf("%i", &valor);
         vet[i] = valor;
-       
     }
 
     for ( i = 0; i < 20; i++)
@@ -36,11 +35,6 @@ int main()
 
     }
     
-
-
-
-
-
     printf("Pares: ");
     for (i = 0; i < pr; i++)
     {
