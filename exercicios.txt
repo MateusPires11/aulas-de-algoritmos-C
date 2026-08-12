@@ -10,17 +10,18 @@ usuário digite (-1) mesmo o vetor não estando cheio.
 3 - Crie um algoritmo que solicite 10 números inteiros, armazene os números
 em um vetor e apresente: média, o maior e o menor. É necessário o uso de
 laço.
+
 4 - Faça um algoritmo que leia uma quantidade de números determinada pelo
 usuário, armazene os números em um vetor e apresente depois o maior e o
 menor número.
 
 5 - Faça um programa que leia 10 números do usuário e faça o teste de número
 par ou ímpar dos números digitados. Crie dois vetores e armazene os números
-
 pares no primeiro vetor e os números ímpares no segundo vetor.
+
 6 - Implemente um programa que recebe um vetor de 20 números inteiros. Em
 seguida o programa deve separar esse vetor, gerando os vetores pares,
-impares, positivos e negativos. O vetor resultante pares deve armazenar os
+impares. O vetor resultante pares deve armazenar os
 valores de entrada que são pares. De forma análoga, o vetor resultante ímpar,
 positivo e negativo deve armazenar os valores ímpares, positivos e negativos
 de entrada. A capacidade de pares e impares deve ser 20, mas não

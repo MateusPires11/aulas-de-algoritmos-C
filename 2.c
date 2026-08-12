@@ -18,6 +18,11 @@ int main()
     {
         scanf("%i",&n2);
         vet[i] = n2;
+
+        if(n2 == -1)
+        {
+            n1 = i;
+        }
     }
     printf("os valores são \n");
     for ( i = 0; i < n1; i++)
