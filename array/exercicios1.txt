@@ -1,0 +1,13 @@
+1) Escreva um programa que leia duas strings e imprime as
+duas strings na tela. Imprima também a segunda letra de
+cada string.
+
+2) Faça um programa em C que lê um string de 5
+caracteres e escreve a string invertida.
+
+3) Faça um programa em C que lê um string de 4
+caracteres e inverte a primeira letra do string com a última.
+O programa deve escrever a string original e a alterada.
+
+4) Faça um programa que leia uma string e faça uma copia
+para uma outra string.
