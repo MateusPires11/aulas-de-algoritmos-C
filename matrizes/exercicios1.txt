@@ -1,0 +1,39 @@
+1) Faça um programa em C que gere a
+seguinte matriz, é necessário usar laço:
+1 1 1 1 1 1
+1 2 2 2 2 1
+1 2 3 3 2 1
+1 2 3 3 2 1
+1 2 2 2 2 1
+1 1 1 1 1 1
+
+2) Faça um programa em C que gere a
+seguinte matriz, é necessário usar laço:
+1 3 3 3 3 2
+3 1 3 3 2 3
+3 3 1 2 3 3
+3 3 2 1 3 3
+3 2 3 3 1 3
+2 3 3 3 3 1
+
+3) Faça um programa em C que
+gere a seguinte matriz, é
+necessário usar laço:
+0 0 0 1
+0 0 1 0
+0 1 0 0
+1 0 0 0
+
+
+4) Faça algoritmo utilizando a linguagem C, que faça a soma das matrizes A e
+B, adicionando os elementos correspondentes: (A + B)[i,j] = A[i, j] + B[i,j]. Você
+pode definir o tamanho da matriz e o usuário deve alimentar as duas matrizes
+com valores. É necessário usar laço.
+
+5) Faça um algoritmo em linguagem C que preencha uma matriz e um vetor
+com tamanho definido pelo usuário (as linhas e colunas da matriz deve ser
+igual ao tamanho das colunas do vetor), depois some os valores da primeira
+linha da matriz com o valor da primeira coluna do vetor e armazene esta soma
+na primeira coluna de um segundo vetor. Faça isso para todas as linhas
+existentes. É necessário usar laço.
+Exemplo: matriz [4] [4] e vetor[4]
