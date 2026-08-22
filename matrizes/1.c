@@ -19,12 +19,19 @@ int main()
             distDir = 5 - j;
 
             menor = distCima;
+
             if (distBaixo < menor)
+            {
                 menor = distBaixo;
+            }
             if (distEsq < menor)
+            {
                 menor = distEsq;
+            }
             if (distDir < menor)
+            {
                 menor = distDir;
+            }
 
             matriz[i][j] = menor + 1;
         }
