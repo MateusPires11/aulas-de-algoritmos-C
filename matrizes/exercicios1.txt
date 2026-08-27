@@ -37,3 +37,25 @@ linha da matriz com o valor da primeira coluna do vetor e armazene esta soma
 na primeira coluna de um segundo vetor. Faça isso para todas as linhas
 existentes. É necessário usar laço.
 Exemplo: matriz [4] [4] e vetor[4]
+
+
+Algoritmos e Programação - 1º Semestre - Aulas 35 e 36
+Codifique os algoritmos abaixo para a Linguagem C no laboratório:
+1) Faça um algoritmo utilizando a linguagem C, que carregue uma matriz 3x3 com
+números inteiros. Depois solicite que o usuário entre com um número. Verifique se o
+número digitado se encontra na matriz, se sim, mostre qual a posição. Depois calcule
+e mostre quantos elementos dessa matriz são maiores que o número digitado pelo
+usuário.
+2) Faça um algoritmo utilizando a linguagem C, que carregue uma matriz 4x3 com
+números inteiros. Depois solicite que o usuário entre com um número. Caso exista o
+número que o usuário digitou na matriz substitua pelo número zero, substituir pelo
+número -1 os números da matriz que são menores que o número digitado e substituir
+pelo número 1 os números da matriz que são maiores que o número digitado pelo
+usuário. Após as substituições mostre na tela toda a matriz alterada.
+3) Faça um algoritmo utilizando a linguagem C que preencha um vetor com 10
+números. A seguir trocar o primeiro elemento com o último, o segundo com penúltimo
+até o quinto com o sexto e escrever o vetor modificado.
+4) Faça um algoritmo utilizando a linguagem C que preencha um vetor com 10
+números. Em seguida, o usuário digita um número que deve ser comparado com o
+vetor preenchido. Caso o número seja encontrado, mostra a posição do número no
+vetor, caso não seja encontrado, emita uma mensagem de número não encontrado.
