@@ -52,10 +52,3 @@ número que o usuário digitou na matriz substitua pelo número zero, substituir
 número -1 os números da matriz que são menores que o número digitado e substituir
 pelo número 1 os números da matriz que são maiores que o número digitado pelo
 usuário. Após as substituições mostre na tela toda a matriz alterada.
-3) Faça um algoritmo utilizando a linguagem C que preencha um vetor com 10
-números. A seguir trocar o primeiro elemento com o último, o segundo com penúltimo
-até o quinto com o sexto e escrever o vetor modificado.
-4) Faça um algoritmo utilizando a linguagem C que preencha um vetor com 10
-números. Em seguida, o usuário digita um número que deve ser comparado com o
-vetor preenchido. Caso o número seja encontrado, mostra a posição do número no
-vetor, caso não seja encontrado, emita uma mensagem de número não encontrado.
