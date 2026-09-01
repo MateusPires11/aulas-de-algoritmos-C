@@ -14,8 +14,8 @@ int main(){
     printf("escolha outro numero: ");
     scanf("%i", &n2);
 
-    printf("escolha um operador");
-    scanf("%c", &op);
+    printf("escolha um operador ");
+    scanf(" %c", &op);
 
     switch (op)
     {
@@ -51,5 +51,5 @@ int main(){
         break;
     }
 
-
+    getch();
 }

@@ -37,7 +37,6 @@ e impares =
 7 Implemente um programa que preencha um vetor com nove números
 inteiros, calcule e mostre os números primos e suas respectivas posições.
 
-
 8 Faça um programa que leia 5 valores inteiros, armazeno-os em um vetor,
 calcule e apresente a média dos valores, os números que são maiores e
 menores que a média.
