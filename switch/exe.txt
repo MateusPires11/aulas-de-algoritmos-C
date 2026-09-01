@@ -1,0 +1,12 @@
+Exercícios
+01) Fazer um algoritmo que simula uma calculadora, ou seja, o
+usuário digita 2 valores e escolhe qual operação matemática quer
+fazer (soma, subtração, multiplicação, divisão).
+02) Fazer um algoritmo para ler um número de um (1) a doze (12)
+que equivale aos meses do ano. O algoritmo deverá apresentar o mês
+do ano(janeiro, fevereiro, e assim sucessivamente).
+03) Fazer um algoritmo para ler um número de um (1) a sete (7)
+que equivale a um menu de opção de um sistema. O algoritmo deverá
+apresentar como saída uma mensagem para o usuário de acordo com
+a opção digitada, por exemplo “Você digitou 1 – Cadastro”, “Você
+digitou 2 – Alteração”, e assim sucessivamente).
