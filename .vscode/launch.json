@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/pichau/Documents/aulas-de-algoritmos-C",
-      "program": "c:/Users/pichau/Documents/aulas-de-algoritmos-C/build/Debug/outDebug",
+      "cwd": "c:/Users/aluno/Downloads/Nova pasta/aulas-de-algoritmos-C/ponteiros",
+      "program": "c:/Users/aluno/Downloads/Nova pasta/aulas-de-algoritmos-C/ponteiros/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
