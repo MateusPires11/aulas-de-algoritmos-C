@@ -7,9 +7,9 @@
 int main()
 {
 
-    int matriz[3][3];
+    int matriz[4][3];
 
-    int i, j, num, maior;
+    int i, j, num;
 
     srand(time(NULL));
 
@@ -23,24 +23,8 @@ int main()
 
     printf("Digite um numero ");
     scanf("%i", &num);
-    maior = 0;
-    for (i = 0; i < 3; i++)
-    {
-        for (j = 0; j < 3; j++)
-        {
-            if (num == matriz[i][j])
-            {
-                printf("posicao %i %i", i, j);
-                printf("\n");
-            }
-            else if (matriz[i][j] > num)
-            {
-
-                maior++;
-            }
-        }
-    }
-
+    printf("matriz normal: ");
+    printf("\n");
     for (i = 0; i < 3; i++)
     {
         printf("\n");
@@ -50,8 +34,37 @@ int main()
             printf("%i", matriz[i][j]);
         }
     }
+
+    for (i = 0; i < 3; i++)
+    {
+
+        for (j = 0; j < 3; j++)
+        {
+            if (matriz[i][j] == num)
+            {
+                matriz[i][j] = 0;
+            }
+            else if (matriz[i][j] < num)
+            {
+                matriz[i][j] = -1;
+            }
+            else if (matriz[i][j] > num)
+            {
+                matriz[i][j] = 1;
+            }
+        }
+    }
     printf("\n");
-    printf("%i sao maiores", maior);
+    printf("matriz alterada: \n");
+    for (i = 0; i < 3; i++)
+    {
+        printf("\n");
+
+        for (j = 0; j < 3; j++)
+        {
+            printf("%3i", matriz[i][j]);
+        }
+    }
 
     getche();
 }
