@@ -1,14 +1,17 @@
-a) Faça um programa utilizando funções que leia uma vetor de 5
+a) Faça um programa utilizando funções que leia um vetor de 5
 números inteiros, depois imprime o vetor normal e o vetor invertido.
 Utilize funções para ler, imprimir e imprimir invertido os números do
 vetor.
+
 b) Faça um programa usando funções para calcular a média aritmética
 entre duas notas de um aluno e para mostrar a situação desse aluno,
 que pode ser aprovado ou reprovado.
+
 c) Faça um programa utilizando funções (com passagens de
 parâmetros por referência) que simula uma calculadora, o usuário
 digita 2 valores e depois escolhe a operação matemática que deseja
 fazer (soma, subtração, multiplicação, divisão).
+
 d) Complemente o exercício anterior com a criação de uma função
 com menu de opções para o usuário efetuar as operações
 matemáticas. O usuário digita 2 valores e de acordo com o menu,
