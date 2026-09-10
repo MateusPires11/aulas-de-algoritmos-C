@@ -1,0 +1,65 @@
+ Exercício 1 — Sistema de notas
+Faça um programa que tenha um menu:
+
+====== MENU ======
+1 - Cadastrar notas
+2 - Mostrar notas
+3 - Calcular média
+4 - Mostrar maior nota
+5 - Mostrar menor nota
+6 - Sair
+
+O programa deve trabalhar com 5 notas.
+
+Regras:
+
+Use funções para cada operação.
+Use ponteiros para modificar/retornar valores quando necessário.
+Use switch para controlar o menu.
+As notas devem ser armazenadas em um vetor.
+
+🔥 Exercício 2 — Matriz com menu
+Crie um programa para trabalhar com uma matriz 3x3.
+
+Menu:
+
+====== MATRIZ ======
+1 - Preencher matriz
+2 - Mostrar matriz
+3 - Somar elementos
+4 - Somar diagonal principal
+5 - Mostrar maior elemento
+6 - Trocar dois elementos
+7 - Sair
+
+Regras:
+
+Cada opção deve chamar uma função.
+Use switch.
+Na opção 6, use ponteiros para realizar a troca.
+A função que procura o maior elemento deve retornar o resultado através de um ponteiro.
+Nada de struct, malloc ou coisas que você ainda não estudou.
+🔥 Exercício 3 — Desafio
+Faça um programa que controle 10 produtos.
+
+Cada produto possui:
+
+código
+preço
+
+Menu:
+
+====== PRODUTOS ======
+1 - Cadastrar preços
+2 - Mostrar produtos
+3 - Calcular preço médio
+4 - Mostrar produto mais caro
+5 - Mostrar produto mais barato
+6 - Aumentar preço
+7 - Sair
+
+Na opção 6, o usuário informa uma porcentagem:
+
+Digite o aumento: 10
+
+E o programa aumenta o preço de todos os produtos em 10%.

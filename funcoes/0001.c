@@ -44,9 +44,6 @@ void invrtvet(int vet[])
 
     imprimir(invet);
     
- 
-
-    
 }
 
 void imprimir(int vet[])
