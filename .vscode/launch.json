@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/aluno/Downloads/Nova pasta/aulas-de-algoritmos-C/exercicios-a-parte",
-      "program": "c:/Users/aluno/Downloads/Nova pasta/aulas-de-algoritmos-C/exercicios-a-parte/build/Debug/outDebug",
+      "cwd": "c:/Users/aluno/Downloads/Nova pasta/aulas-de-algoritmos-C/revisao-prova",
+      "program": "c:/Users/aluno/Downloads/Nova pasta/aulas-de-algoritmos-C/revisao-prova/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

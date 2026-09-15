@@ -1,0 +1,20 @@
+1) Considerando um vetor de 5 números inteiros, criar função para:
+    a) Preencher um vetor
+    b) Mostrar o vetor
+    c) Retornar mensagens para dizer quantos números são negativos e
+    quantos são positivos.
+    d) Retornar apenas o maior número.
+    e) Retornar a média dos números.
+
+2) Considerando um vetor de inteiros, criar função para:
+    a) Preencher um vetor
+    b) Receber o vetor e um número X e retorna quantas vezes X aparece
+
+3) Considerando um vetor de inteiros, criar função para:
+    a) inverter os elementos de um vetor
+    
+4) Considerando o preenchendo de um vetor de x elementos definidos e
+preenchidos pelo usuário, encontrar o tamanho da maior subsequência
+crescente consecutiva
+Exemplo de sequência: 1 2 3 1 2 3 4 0
+Resposta = 4
