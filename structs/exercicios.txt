@@ -1,0 +1,9 @@
+Exercícios 
+1)  
+    Criar uma struct chamada notas, que armazena o nome, a nota1, a nota2 e a média do aluno. 
+Criar uma variável dessa struct e ler os campos (com exceção da média que é calculada). 
+Depois exibir o nome, a média do aluno e a palavra aprovado (se média >= 6) ou reprovado. 
+
+2) 
+    Considerando o exercício 1, criar uma variável que é um vetor da struct notas. O
+ programa deve calcular e mostrar a média de 10 alunos e também a média geral da sala.

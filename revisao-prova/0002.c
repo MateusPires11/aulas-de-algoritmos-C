@@ -1,35 +1,16 @@
-#include<stdio.h>
-#include <stdlib.h>
-#include <conio.h>
-
-void preenchervet(int vet[],int v);
-
-int main(){
-    int v,i;
-
-    printf("Determine um tamanho para o vetor. ");
-    scanf("%i",&v);
-
-    int vet[v];
-
-    preenchervet(vet, v);
-
-
-    for ( i = 0; i < v; i++)
-    {
-        printf("%i", vet[i]);
-    }
-    
-   
+void troca(int x, int y) {
+    int t = x;
+    x = y;
+    y = t;
 }
 
-void preenchervet(int vet[],int v){
+void soma10(int *x) {
+    *x = *x + 10;
+}
 
-    int i;
-
-    for (i = 0; i < v; i++)
-    {
-        scanf("%i",&vet[i]);
-    }
-
+int main() {
+    int a = 3, b = 7;
+    troca(a, b);
+    soma10(&a);
+    printf("%d %d", a, b);
 }
