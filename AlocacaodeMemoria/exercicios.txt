@@ -1,0 +1,10 @@
+Exercícios
+
+    1) Escreva um programa para alocar dinamicamente
+    memória para um vetor definido pelo usuário (utilize a
+    função calloc). Preencha e mostra os números do vetor.
+    
+    2) Complemente o programa anterior aumentando o
+    tamanho do vetor de acordo com o tamanho definido
+    pelo usuário. Adicione mais números no vetor
+    aumentado e mostre todos os números.
